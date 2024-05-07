@@ -1,0 +1,225 @@
+accession_id	lineage	collection_date	country	center_name	host	TAXON	coverage	who
+OL984118	AY.120.1	20210101	USA		Homo sapiens	2697049		Delta
+OU250845	AY.111	20210412	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU398707	AY.120.2.1	20210618	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+OK549902	B.1.617.2	20210719	USA	The Scripps Research Institute	Homo sapiens	2697049		Delta
+OV824793	AY.122.3	20211020	Denmark	Statens Serum Institut and the Danish Covid19 Genome Consortium (DCGC)	Homo sapiens	2697049		Delta
+MZ411792	B.1.617.2	20210601	USA		Homo sapiens	2697049		Delta
+OV110054	AY.122	20200911	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+MZ590833	AY.116.1	20210628	USA	CDC-OAMD	Homo sapiens	2697049		Delta
+MZ713400	AY.112	20210520	India		Homo sapiens	2697049		Delta
+OL899499	AY.118	20210101	USA		Homo sapiens	2697049		Delta
+OL413079	AY.121	20210111	USA		Homo sapiens	2697049		Delta
+OV103966	AY.126	20210109	Slovakia	"Comenius University Science Park Laboratory of Genomics and Bioinformatics, Comenius University Science Park"	Homo sapiens	2697049		Delta
+MZ538189	AY.105	20210608	USA	CDC-OAMD	Homo sapiens	2697049		Delta
+OU397295	AY.109	20210625	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU255596	AY.10	20210416	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OK545384	AY.113	20210114	USA	FLDOH	Homo sapiens	2697049		Delta
+MZ760175	AY.14	20210729	USA	CDC-OAMD	Homo sapiens	2697049		Delta
+MZ411870	B.1.617.2	20210603	USA		Homo sapiens	2697049		Delta
+MZ531230	AY.116	20210613	USA	CDC-OAMD	Homo sapiens	2697049		Delta
+MZ976785	AY.108	20210709	Pakistan		Homo sapiens	2697049		Delta
+OV229034	AY.123.1	20211118	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+MZ534955	AY.119.2	20210622	USA		Homo sapiens	2697049		Delta
+MZ864108	AY.122.1	20210726	USA		Homo sapiens	2697049		Delta
+MZ564461	AY.127	20210625	USA		Homo sapiens	2697049		Delta
+MZ770156	AY.122.2	20210721	USA	Seattle Flu Study submission group	Homo sapiens	2697049		Delta
+OU594986	AY.124.1.1	20210809	Switzerland	Swiss Pathogen Surveillance Platform (SPSP)	Homo sapiens	2697049		Delta
+OV017672	AY.125	20201014	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+MZ252572	AY.119	20210508	USA		Homo sapiens	2697049		Delta
+OV238227	AY.112.1	20211109	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+OU375049	AY.106	20210627	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU407493	AY.124	20210620	Switzerland	Swiss Pathogen Surveillance Platform (SPSP)	Homo sapiens	2697049		Delta
+MZ591324	AY.38	20210629	USA	CDC-OAMD	Homo sapiens	2697049		Delta
+MZ702700	B.1.617.2	20210511	India		Homo sapiens	2697049		Delta
+OU260083	AY.11	20210420	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+MZ453704	AY.117	20210514	USA	Seattle Flu Study submission group	Homo sapiens	2697049		Delta
+OD914762	A.23.1	20201220	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		A.23.1-like
+MZ984818	AY.101	20210807	USA		Homo sapiens	2697049		Delta
+MZ702638	AY.1	20210408	India		Homo sapiens	2697049		Delta
+MZ358660	AY.13	20210513	USA		Homo sapiens	2697049		Delta
+OU522469	AY.104	20210731	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OL899547	AY.103	20210101	USA		Homo sapiens	2697049		Delta
+OU729261	AY.127.1	20210912	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OK147571	AY.110	20210507	USA		Homo sapiens	2697049		Delta
+OU478572	AY.5	20210724	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OK125653	AY.3	20210714	USA		Homo sapiens	2697049		Delta
+MZ615555	AY.121	20210708	USA	New Mexico Department of Health Scientific Laboratory	Homo sapiens	2697049		Delta
+OU225358	AV.1	20210323	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		AV.1-like
+OU515282	AY.129	20210712	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+OU269495	AY.120	20210428	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OL418077	AY.119.1	20211029	USA		Homo sapiens	2697049		Delta
+OM898390	AY.38	20210529	USA		Homo sapiens	2697049		Delta
+OU442421	AY.4.1	20210710	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OK080787	B.1.617.2	20210805	USA		Homo sapiens	2697049		Delta
+MZ850008	AY.39.2	20210706	USA	CDC-OAMD	Homo sapiens	2697049		Delta
+OK511879	AY.37	20210607	USA		Homo sapiens	2697049		Delta
+MZ962698	AY.3	20210209	USA	TN DOH	Homo sapiens	2697049		Delta
+OL560841	AY.39	20211105	USA	CDC-OAMD	Homo sapiens	2697049		Delta
+OU737861	AY.5	20210805	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OL601924	AY.36	20210629	Nigeria		Homo sapiens	2697049		Delta
+MZ655264	AY.34	20210628	USA	CDC-OAMD	Homo sapiens	2697049		Delta
+MZ888534	AY.30	20210624	Thailand		Homo sapiens	2697049		Delta
+OL831406	AY.3	20211207	USA	CDC-OAMD	Homo sapiens	2697049		Delta
+OK663266	AY.20	20210802	USA	California Department of Public Health	Homo sapiens	2697049		Delta
+MZ730271	AY.3	20210724	USA	CDC-OAMD	Homo sapiens	2697049		Delta
+MZ450315	AY.20	20210607	USA		Homo sapiens	2697049		Delta
+OK349537	AY.26	20210318	USA	TN DOH	Homo sapiens	2697049		Delta
+OL899544	AY.25.1	20210101	USA		Homo sapiens	2697049		Delta
+OL691296	AY.16	20210608	Kenya		Homo sapiens	2697049		Delta
+OK230132	AY.39	20210601	USA		Homo sapiens	2697049		Delta
+OU424397	AY.5	20210702	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OM720975	AY.32	20210524	South Africa		Homo sapiens	2697049		Delta
+MZ594474	AY.25	20210101	USA		Homo sapiens	2697049		Delta
+OU622340	AY.23.2	20210818	Switzerland	Swiss Pathogen Surveillance Platform (SPSP)	Homo sapiens	2697049		Delta
+MZ296100	AY.2	20210513	USA		Homo sapiens	2697049		Delta
+BS001860	AY.29.1	20210101	Japan		Homo sapiens	2697049		Delta
+OU435041	AY.17	20210704	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OL493957	AY.26.1	20211019	USA	CDC-OAMD	Homo sapiens	2697049		Delta
+OL691306	AY.16	20210630	Kenya		Homo sapiens	2697049		Delta
+OK433292	AY.24	20210315	New Zealand	Institute of Environmental Science and Research	Homo sapiens	2697049		Delta
+MZ684942	AY.14	20210504	USA		Homo sapiens	2697049		Delta
+MZ726520	AY.27	20210712	USA		Homo sapiens	2697049		Delta
+MZ368298	AY.35	20210601	USA		Homo sapiens	2697049		Delta
+MZ368310	AY.23	20210601	USA		Homo sapiens	2697049		Delta
+MZ371794	B.1.617.2	20210516	USA		Homo sapiens	2697049		Delta
+OK121334	AY.3.1	20210722	USA		Homo sapiens	2697049		Delta
+ON005391	AY.19	20210803	Taiwan		Homo sapiens	2697049		Delta
+OK537391	AY.25.1.1	20211007	USA	Broad Institute Genomic Center for Infectious Diseases	Homo sapiens	2697049		Delta
+MZ341272	B.1.617.2	20210513	USA		Homo sapiens	2697049		Delta
+BS001606	AY.29	20210101	Japan		Homo sapiens	2697049		Delta
+OU372854	AY.22	20210626	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OK187792	AY.3.1	20210601	USA		Homo sapiens	2697049		Delta
+OK426561	AY.39.1.1	20210728	New Zealand	Institute of Environmental Science and Research	Homo sapiens	2697049		Delta
+OU621553	AY.39.1.2	20210824	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+MZ451773	AY.15	20210519	USA		Homo sapiens	2697049		Delta
+OV848379	AY.132	20211109	Denmark	Statens Serum Institut and the Danish Covid19 Genome Consortium (DCGC)	Homo sapiens	2697049		Delta
+OU722685	AY.4	20210909	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OV107595	AY.4	20200911	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+OL413478	AY.23.1	20211027	Singapore		Homo sapiens	2697049		Delta
+OK171698	AY.47	20210803	USA		Homo sapiens	2697049		Delta
+OU529827	AY.34.2	20210802	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU429106	B.1.617.2	20210616	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+MZ730509	AY.42.1	20210719	USA	CDC-OAMD	Homo sapiens	2697049		Delta
+OU588449	AY.4	20210813	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU409127	AY.4	20210629	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OK290758	AY.55	20210429	USA	NJDOH PHEL-Virology's shared submissions	Homo sapiens	2697049		Delta
+OL912742	AY.43.1	20211211	USA	CDC-OAMD	Homo sapiens	2697049		Delta
+OU428004	AY.53	20210623	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+OU450818	AY.4.8	20210713	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OV918551	AY.4.4	20210712	Denmark	Statens Serum Institut and the Danish Covid19 Genome Consortium (DCGC)	Homo sapiens	2697049		Delta
+OU377546	AY.4	20210619	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OK430836	AY.47	20210508	USA	NC SLPH COVID-19 Response Team	Homo sapiens	2697049		Delta
+MZ590920	AY.46.1	20210626	USA	CDC-OAMD	Homo sapiens	2697049		Delta
+OU329622	AY.4.2	20210608	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+MZ538754	B.1.617.2	20210605	USA	FLDOH	Homo sapiens	2697049		Delta
+OU740280	AY.43.3	20210915	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU398764	AY.50	20210527	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+MZ648149	AY.5.3	20210701	USA		Homo sapiens	2697049		Delta
+OV104553	AY.42	20210309	Slovakia	"Comenius University Science Park Laboratory of Genomics and Bioinformatics, Comenius University Science Park"	Homo sapiens	2697049		Delta
+OU402812	AY.46.5	20210628	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+MZ518471	AY.52	20210601	USA	Utah Public Health Laboratory	Homo sapiens	2697049		Delta
+OK290133	AY.56	20210529	USA	NJDOH PHEL-Virology's shared submissions	Homo sapiens	2697049		Delta
+OL406438	AY.117	20211030	USA	Broad Institute Genomic Center for Infectious Diseases	Homo sapiens	2697049		Delta
+OU355389	AY.4.5	20210618	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OV913810	AY.5.2	20210706	Denmark	Statens Serum Institut and the Danish Covid19 Genome Consortium (DCGC)	Homo sapiens	2697049		Delta
+MZ371903	B.1.617.2	20210521	USA		Homo sapiens	2697049		Delta
+OU416571	AY.5	20210702	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OV829562	AY.43.6	20210924	Denmark	Statens Serum Institut and the Danish Covid19 Genome Consortium (DCGC)	Homo sapiens	2697049		Delta
+OU442598	AY.60	20210705	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU428443	AY.4.3	20210701	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU571224	AY.51	20210715	Switzerland	Swiss Pathogen Surveillance Platform (SPSP)	Homo sapiens	2697049		Delta
+OV266528	AY.5.1	20210825	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+OU380784	AY.46.2	20210623	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU274241	AY.58	20210429	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU329975	AY.4.9	20210609	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OK433481	AY.59	20210806	New Zealand	Institute of Environmental Science and Research	Homo sapiens	2697049		Delta
+MZ746483	AY.44	20201216	USA	Utah Public Health Laboratory	Homo sapiens	2697049		Delta
+OU474539	AY.4.2.2	20210722	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU565933	AY.4.2.3	20210806	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+OU398686	AY.41	20210628	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+OL691294	AY.46.4	20210608	Kenya		Homo sapiens	2697049		Delta
+OV120986	AY.43	20200911	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+OU861395	AY.46.5	20210209	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU299817	AY.9	20210526	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+MZ363863	B.1.617.2	20210420	India		Homo sapiens	2697049		Delta
+OV494574	AY.46.6.1	20211208	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU469514	AY.5	20210720	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+MZ694182	AY.16	20210710	USA	CDC-OAMD	Homo sapiens	2697049		Delta
+OV686433	AY.43.5	20211214	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+OU252562	AY.5	20210414	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OM721074	AY.45	20210526	South Africa		Homo sapiens	2697049		Delta
+OU517395	AY.73	20210719	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+MZ686079	B.1.617.2	20210703	USA		Homo sapiens	2697049		Delta
+OU568490	AY.72	20210729	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+OL369347	B.1.617.2	20210427	USA		Homo sapiens	2697049		Delta
+OU509526	AY.75.2	20210730	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU422935	AY.4	20210529	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OV104393	AY.7.1	20210209	Slovakia	"Comenius University Science Park Laboratory of Genomics and Bioinformatics, Comenius University Science Park"	Homo sapiens	2697049		Delta
+OU566355	AY.7.2	20210709	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+OU981962	AY.9.2.2	20211019	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+MZ462468	AY.81	20210528	USA		Homo sapiens	2697049		Delta
+OU896613	AY.46.6	20211006	Switzerland	Swiss Pathogen Surveillance Platform (SPSP)	Homo sapiens	2697049		Delta
+MZ618140	B.1.617.2	20210629	USA	CDC-OAMD	Homo sapiens	2697049		Delta
+OK290809	AY.75	20210413	USA	NJDOH PHEL-Virology's shared submissions	Homo sapiens	2697049		Delta
+OK230464	AY.67	20210608	USA		Homo sapiens	2697049		Delta
+OU378514	AY.98	20210625	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+MZ571304	AY.65	20210601	USA		Homo sapiens	2697049		Delta
+OU425258	AY.98	20210702	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OV916396	B.1.617.2	20210709	Denmark	Statens Serum Institut and the Danish Covid19 Genome Consortium (DCGC)	Homo sapiens	2697049		Delta
+OK230190	AY.83	20210611	USA		Homo sapiens	2697049		Delta
+OU398766	AY.68	20210618	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+OM765599	AY.99	20210608	South Africa		Homo sapiens	2697049		Delta
+OU517984	AY.94	20210623	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+OU154827	AY.92	20210430	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+OU555196	AY.63	20210806	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU260449	AY.8	20210421	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU265809	AY.98	20210430	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU293087	AY.87	20210518	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU335568	AY.9	20210609	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU398601	AY.91	20210207	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+MZ341320	AY.77	20210513	USA		Homo sapiens	2697049		Delta
+MZ746345	B.1.617.2	20210719	USA	Utah Public Health Laboratory	Homo sapiens	2697049		Delta
+OU358136	AY.91.1	20210611	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+BS001453	AY.75.3	20210727	Japan		Homo sapiens	2697049		Delta
+OU242646	AY.9	20210404	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+MZ491769	AY.74	20210610	USA		Homo sapiens	2697049		Delta
+OU360448	AY.61	20210607	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+MZ701873	B.1.617.2	20210504	India		Homo sapiens	2697049		Delta
+MZ655085	B.1.617.2	20210627	USA	CDC-OAMD	Homo sapiens	2697049		Delta
+MZ690018	B.1.617.2	20210707	USA	CDC-OAMD	Homo sapiens	2697049		Delta
+OU706356	AY.69	20210701	Slovakia	"Comenius University Science Park Laboratory of Genomics and Bioinformatics, Comenius University Science Park"	Homo sapiens	2697049		Delta
+OU429099	B.1.617.2	20210616	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+OU273271	AY.90	20210502	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU377291	AY.88	20210626	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU429828	B.1.617.2	20210630	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+MZ888537	AY.85	20210702	Thailand		Homo sapiens	2697049		Delta
+OU576502	AY.84	20210803	Switzerland	Swiss Pathogen Surveillance Platform (SPSP)	Homo sapiens	2697049		Delta
+MZ518587	AY.64	20210530	USA	Utah Public Health Laboratory	Homo sapiens	2697049		Delta
+OU271218	AY.7	20210501	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Delta
+OU326507	AY.95	20210519	Germany	Robert Koch Institute	Homo sapiens	2697049		Delta
+MZ654959	AY.3	20210701	USA	CDC-OAMD	Homo sapiens	2697049		Delta
+MZ779752	B.1.617.3	20210301	USA		Homo sapiens	2697049		B.1.617.3-like
+OK548189	Q.3	20210102	USA	The Scripps Research Institute	Homo sapiens	2697049		Alpha
+MW617687	B.1.429.1	20210127	USA	Broad Institute of MIT and Harvard	Homo sapiens	2697049		Epsilon
+MW763128	B.1.351	20210221	USA		Homo sapiens	2697049		Beta
+MW854297	Q.2	20210310	Italy		Homo sapiens	2697049		Alpha
+MW972888	B.1.429	20200914	USA		Homo sapiens	2697049		Epsilon
+LR991699	B.1.1.7	20200920	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Alpha
+OU015160	B.1.621	20210101	Spain	Clinical Bioinformatics Area	Homo sapiens	2697049		Mu
+MZ562758	B.1.617.1	20210208	India		Homo sapiens	2697049		B.1.617.1-like
+OK193740	B.1.621	20210318	USA		Homo sapiens	2697049		Mu
+OU014436	B.1.1.7	20210101	Spain	Clinical Bioinformatics Area	Homo sapiens	2697049		Alpha
+MW932549	Q.4	20210329	USA		Homo sapiens	2697049		Alpha
+MZ056105	Q.6	20210408	USA		Homo sapiens	2697049		Alpha
+OK293078	B.1.621.1	20210409	USA		Homo sapiens	2697049		Mu
+MZ239485	B.1.1.7	20210203	USA	FLDOH	Homo sapiens	2697049		Alpha
+OV754178	BA.2	20220117	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Omicron
+OM898676	AY.99.2	20210625	USA		Homo sapiens	2697049		Delta
+OM873778	BA.1	20220216	USA	CDC-OAMD	Homo sapiens	2697049		Omicron
+OK248388	B.1.621	20210618	USA		Homo sapiens	2697049		Mu
+OW123901	BA.2	20211109	Slovakia	Comenius University Science Park Public Health Authority of the Slovak Republic	Homo sapiens	2697049		Omicron
+OU252206	Q.8	20210412	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Alpha
+MZ034671	B.1.1.7	20210410	USA		Homo sapiens	2697049		Alpha
+OD913776	B.1.525	20201215	United Kingdom	COVID-19 Genomics UK Consortium	Homo sapiens	2697049		Eta
+OK626882	B.1.617.2	20210101	Finland		Homo sapiens	2697049		Delta
