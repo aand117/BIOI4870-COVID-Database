@@ -3,6 +3,6 @@ create table covid_sample(
 	pango_lineage VARCHAR(10),
 	bioproject_id VARCHAR(15),
 	biosample_id VARCHAR(12),
-	date DATE,
+	collection_date DATE,
 	primary key(accession_id)
 );
