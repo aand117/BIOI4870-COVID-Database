@@ -1,23 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>BIOI-4870-COVID-Database</title>
-</head>
-<body>
+<p>The select element defines a drop-down list:</p>
 
-<h1>SARS-CoV-2 Nucleotide Database</h1>
-<p>Wecome to the SARS-CoV-2 Nucleotide Database! Here you can find many complete nucleotide sequences to study COVID-19.</p>
-
-</body>To begin, Select the nature of your query<body>
-
-<form>
-  <input type="radio" id="IR" name="retrieve_info" value="IR">
-  <label for="retrieve_info">Information Retrieval</label><br>
-  <input type="radio" id="query" name="query" value="Query">
-  <label for="query">Write my own Query</label><br>
-  <input type="radio" id="idk" name="idk" value="idk">
-  <label for="idk">I don't know...</label>
-</form>
-
-<button>Submit</button>
-</html>
+<form action="/action_page.php">
+  <label for="cars">Choose a car:</label>
+  <select id="cars" name="cars">
+    <option value="volvo">Volvo</option>
+    <option value="saab">Saab</option>
+    <option value="fiat">Fiat</option>
+    <option value="audi">Audi</option>
+  </select>
+  <input type="submit">
